@@ -28,11 +28,8 @@ xyz = \
                 +======================================+  
                 #           Version : v1.0             #
 	        #        ---------------------	       #
-		# Developed By : Encryptor             #
-		# Author       : Sathyaprakash Sahoo   #
-                # Instagram    : _.encryptor._         #  
-                # Website      : www.cyberbuddy.co.in  #  
-                # Github       : Encryptor-Sec         #
+		# Developed By : RAIT STUDENTS         #
+                #                                      #
                 +======================================+  
 
 -------OPTIONS-------
